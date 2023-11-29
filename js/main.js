@@ -10,16 +10,16 @@ aria-expanded="false" aria-label="Toggle navigation">
 <div class="collapse navbar-collapse" id="collapsibleNavId">
 <ul class="navbar-nav me-auto mt-2 mt-lg-0">
 <li class="nav-item">
-<a class="nav-link active" href="/venv/index.html" aria-current="page">Inicio <span
+<a class="nav-link active" href="index.html" aria-current="page">Inicio <span
 
 class="visually-hidden">(current)</span></a>
 
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/venv/templates/productos.html">Productos</a>
+<a class="nav-link" href="/templates/productos.html">Productos</a>
 </li>
 <li class="nav-item">
-<a class="nav-link" href="/venv/templates/ingresar_producto.html">Ingresar Productos</a>
+<a class="nav-link" href="/templates/ingresar_producto.html">Ingresar Productos</a>
 </li>
 
 </ul>
