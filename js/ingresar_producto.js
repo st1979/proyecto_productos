@@ -15,7 +15,7 @@ function guardar() {
     }
     console.log(enviar_producto);
     
-    let url = "http://localhost:5000/registro"
+    let url = "https://stellacorrea.pythonanywhere.com/registro"
     var options = {
         body: JSON.stringify(enviar_producto),
         method: 'POST',

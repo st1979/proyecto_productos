@@ -34,7 +34,7 @@ function modificar() {
         nombre: nombreForm,
         
     }
-    let url = "http://localhost:5000/update/"+id
+    let url = "https://stellacorrea.pythonanywhere.com//update/"+id
     var options = {
         body: JSON.stringify(producto),
         method: 'PUT',
